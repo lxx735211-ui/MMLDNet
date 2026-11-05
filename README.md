@@ -1,1 +1,1 @@
-# MMLDNet
+"This is the official repository for the paper: Low-Light Enhancement Method Combining Multi-Region Multi-Scale Detail Enhancement with Luminance-Detail Balance Optimization. The full source code and pre-trained weights will be released here upon acceptance."
